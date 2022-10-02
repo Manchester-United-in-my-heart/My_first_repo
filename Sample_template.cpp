@@ -46,7 +46,7 @@ int main()
 	//freopen("input.txt","r",stdin);
 	#endif
     // you code here
-    
+    //nothing special, this is a meaningless command
     //end code
     #ifndef ONLINE_JUDGE
     in.close();
