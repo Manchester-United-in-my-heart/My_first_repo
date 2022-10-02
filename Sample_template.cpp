@@ -47,6 +47,7 @@ int main()
 	#endif
     // you code here
     //nothing special, this is a meaningless command
+// hey
     //end code
     #ifndef ONLINE_JUDGE
     in.close();
